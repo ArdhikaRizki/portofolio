@@ -17,14 +17,16 @@ A highly motivated Informatics student specializing in cross-platform mobile dev
 * **Tagline:** AI-Powered Debt Optimization Platform
 * **Tech Stack:** Flutter, Node.js, Google Gemini AI, ML Kit OCR
 * **Description:** A comprehensive financial tracking application. I integrated Google ML Kit and Gemini 2.5 Flash for an AI-powered receipt scanner and implemented a greedy algorithm for Debt Chain Optimization to compute net balances and minimize required transactions across group members.
-* **Link:** [https://github.com/ArdhikaRizki/Be-Debt-Manager](https://www.google.com/search?q=https://github.com/ArdhikaRizki/Be-Debt-Manager)
+* **Link (Backend):** [https://github.com/ArdhikaRizki/Be-Debt-Manager](https://www.google.com/search?q=https://github.com/ArdhikaRizki/Be-Debt-Manager)
+* **Link (Frontend):** [https://github.com/ArdhikaRizki/debt-manager](https://github.com/ArdhikaRizki/debt-manager)
 
 **Project 2: EventSync**
 
 * **Tagline:** Realtime Event Coordination Platform
 * **Tech Stack:** Node.js, GCP, MySQL, MongoDB, Docker
 * **Description:** A centralized coordination platform designed with a scalable hybrid database architecture. It logically separates structured operational data (SQL) from high-frequency, real-time operations like live chats and checklists (NoSQL) to ensure reliability during peak event hours.
-* **Link:** [https://github.com/ArdhikaRizki/EO](https://www.google.com/search?q=https://github.com/ArdhikaRizki/EO)
+* **Link (Backend):** [https://github.com/ArdhikaRizki/EO](https://www.google.com/search?q=https://github.com/ArdhikaRizki/EO)
+* **Link (Frontend):** [https://github.com/dhixdi/Event_Organizer](https://github.com/dhixdi/Event_Organizer)
 
 **Project 3: WarungKita**
 
